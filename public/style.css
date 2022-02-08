@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    background-color: rgb(13, 122, 218);
+    color: brown;
+   padding: 15px;
+   text-align: center;
+}
+.Card{
+    background-color: #ffda7c;
+    box-shadow: 5px 10px 4px black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color: rgba(19, 2, 41, 0.788);
+   display: inline-block;
+}
+.CardTittle{
+    margin-bottom: 5px;
+    color: rgb(49, 2, 2);
+}
+.CardDes{
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+.CardFooder
+{
+    text-align: center;
+     font-weight: bold;
+}
+
